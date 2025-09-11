@@ -31,7 +31,7 @@ Solving System of Equations | [Solving System of Equations](https://medium.com/@
 ## Finance
 What is it? | Blog Post/IPython Notebook | Youtube Video
 --- | --- | ---
-Understanding Car Loans with Python | [Understanding Car Loans with Python](https://towardsdatascience.com/the-cost-of-financing-a-new-car-car-loans-c00997f1aee) | Coming Soon
+Understanding Car Loans with Python | [Understanding Car Loans with Python](https://medium.com/data-science/the-cost-of-financing-a-new-car-car-loans-c00997f1aee) | Coming Soon
 Understanding Home Loans with Python | Coming Soon | Coming Soon
 
 ## Gradient Boosting
@@ -59,7 +59,7 @@ Time Series Part 2  | [Time Series Data Basics with Pandas Part 2](https://githu
 What is it? | Blog Post/Jupyter Notebook | Youtube Video
 --- | --- | ---
 Common options for Parallelizing Python Code | [Blog Post](https://towardsdatascience.com/parallelizing-python-code-3eb3c8e5f9cd) | None
-Writing your First Distributed Python Application with Ray | [Blog Post](https://towardsdatascience.com/using-the-fitbit-web-api-with-python-f29f119621ea) | None
+Writing your First Distributed Python Application with Ray | [Blog Post](https://medium.com/data-science/writing-your-first-distributed-python-application-with-ray-4248ebc07f41) | None
 
 ## PyTorch
 What is it? | Blog Post/Jupyter Notebook | Youtube Video
