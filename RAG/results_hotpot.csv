@@ -1,0 +1,4 @@
+Architecture,Correctness,Answer F1,Avg Latency (s),n
+Naive RAG (multi-hop),0.8,0.693,1.43,5
+Advanced RAG (multi-hop),0.6,0.56,8.13,5
+Agentic RAG (multi-hop),0.8,0.581,4.35,5
